@@ -1,0 +1,45 @@
+{
+    "CliJoao" : {
+        "nome": "João",
+        "sobrenome": "Silva",
+        "email": "joao@example.com",
+        "telefone": "1198765432",
+        "genero": "masculino",
+        "birthDate": "10-25-2012",
+        "Subjects": ["Chemistry","Maths"],
+        "Hobbie": ["Sports", "Reading" ],
+        "picture": "Homemjoao.png",
+        "Address": "Rua das flores 15",
+        "State": "NCR", 
+        "City": "Noida"
+    },
+
+    "CliMaria" : {
+        "nome": "Maria",
+        "sobrenome": "Oliveira",
+        "email": "maria@example.com",
+        "telefone": "2298765432",
+        "genero": "feminino",
+        "birthDate": "03-28-96",
+        "Subjects": "Maths",
+        "Hobbie": ["Music", "Reading" ],
+        "picture": "maria.png",
+        "Address": "Rua das pedras 80",
+        "State": "NCR", 
+        "City": "Delhi"
+    },
+    
+    "CliAna" : {
+        "nome": "Ana",
+        "sobrenome": "Beatriz",
+        "email": "ana@example.com",
+        "Idade": "15",
+        "Salario": "6000",
+        "Departamento": "Compras"
+    },
+    
+    "ClienteAPI" : {
+        "nome": "diSOs",
+        "senha": "Oliveira@1234"
+    }
+}
